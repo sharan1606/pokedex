@@ -23,3 +23,5 @@ name => le nom du pokémon
 Ne prend aucuns paramètres
 /types
 Ne prend aucuns paramètres
+
+!!!! Style fait en css car tailwind me bloque en créant des erreurs !!!!
