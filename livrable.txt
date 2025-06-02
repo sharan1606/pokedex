@@ -1,0 +1,3 @@
+https://github.com/sharan1606/pokedex
+
+!!!! Style fait en css car tailwind me bloque en créant des erreurs !!!!
